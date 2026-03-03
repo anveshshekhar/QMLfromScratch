@@ -26,7 +26,6 @@ qml-from-scratch/
 │   ├── kernels/          # Quantum Kernel implementations
 │   ├── optimizers/       # Custom gradient descent and parameter-shift logic
 │   └── utils/            # Plotting and state vector visualizations
-├── notebooks/            # Explanatory tutorials for each implementation
 ├── tests/                # Unit tests for quantum circuit outputs
 └── README.md
 
