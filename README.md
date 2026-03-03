@@ -44,7 +44,7 @@ This repository prioritizes transparency in the learning process. All implementa
 
 ### Getting Started
 
-1. Clone the repository: `git clone [url](https://github.com/anveshshekhar/QMLfromScratch/)`
+1. Clone the repository: `git clone https://github.com/anveshshekhar/QMLfromScratch/`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Execute a module: `python src/optimizers/gradient_calc.py`
 
