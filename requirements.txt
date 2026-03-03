@@ -1,0 +1,19 @@
+# Quantum Frameworks
+pennylane>=0.35.0
+pennylane-qiskit>=0.35.0
+qiskit>=1.0.0
+qiskit-aer>=0.13.0
+
+# Numerical/Scientific Computing
+jax>=0.4.20
+jaxlib>=0.4.20
+numpy>=1.26.0
+scipy>=1.11.0
+
+# Visualization & Notebook Support
+matplotlib>=3.8.0
+ipython>=8.15.0
+jupyter>=1.0.0
+
+# Optional: For performance tracking/parallelization
+tqdm>=4.66.0
