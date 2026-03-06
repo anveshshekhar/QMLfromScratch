@@ -4,8 +4,6 @@ from .base import QuantumEmbedding
 
 class AmplitudeEmbedding(QuantumEmbedding):
     def apply(self, features):
-        # Implementing Amplitude Embedding
-        
         norm = jnp.linalg.norm(features)
         if norm == 0:
             normalized_features = features

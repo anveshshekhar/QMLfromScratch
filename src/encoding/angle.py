@@ -3,8 +3,6 @@ from .base import QuantumEmbedding
 
 class AngleEmbedding(QuantumEmbedding):
     def apply(self, features):
-        # Mapping Features to Rotation Angles
-        
         if len(features) > self.num_wires:
             raise ValueError("More features than available wires.")
             
